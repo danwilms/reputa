@@ -1,0 +1,27 @@
+html{
+    background-color: antiquewhite
+}
+h1{
+    color: yellowgreen;
+    font-size: 35px;
+    font-style: italic;
+    text-align: center;
+}
+a{
+    color: yellowgreen;
+    font-size: 40px;
+    border-style: outset;
+    outline-style: groove;
+    background-color: whitesmoke;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1{
+    font-weight: 400;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-style: outset;
+    outline-style: groove;
+    background-color: aliceblue;
+}
+.rel{
+    text-align: center
+}
